@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-telebot-signed.flake = false;
+  inputs.src-telebot-signed.ref   = "refs/tags/signed";
   inputs.src-telebot-signed.owner = "ba0f3";
-  inputs.src-telebot-signed.ref   = "signed";
   inputs.src-telebot-signed.repo  = "telebot.nim";
   inputs.src-telebot-signed.type  = "github";
   
