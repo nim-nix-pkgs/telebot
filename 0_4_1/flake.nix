@@ -11,6 +11,7 @@
   inputs.src-telebot-0_4_1.ref   = "refs/tags/0.4.1";
   inputs.src-telebot-0_4_1.owner = "ba0f3";
   inputs.src-telebot-0_4_1.repo  = "telebot.nim";
+  inputs.src-telebot-0_4_1.dir   = "";
   inputs.src-telebot-0_4_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
