@@ -11,7 +11,6 @@
   inputs.src-telebot-signed.ref   = "refs/tags/signed";
   inputs.src-telebot-signed.owner = "ba0f3";
   inputs.src-telebot-signed.repo  = "telebot.nim";
-  inputs.src-telebot-signed.dir   = "";
   inputs.src-telebot-signed.type  = "github";
   
   inputs."sam".owner = "nim-nix-pkgs";
