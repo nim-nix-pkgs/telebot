@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-telebot-master": "src-telebot-master"
+        "src-telebot-2022_08_14": "src-telebot-2022_08_14"
       }
     },
-    "src-telebot-master": {
+    "src-telebot-2022_08_14": {
       "flake": false,
       "locked": {
-        "lastModified": 1660528603,
-        "narHash": "sha256-k99sT2bQ/KfdqS/jWNMGwAqufFTo5hUm4KW/zbvXc1c=",
+        "lastModified": 1660481050,
+        "narHash": "sha256-lmAcgCoLi4EFfYeCbdoj0jivukF2+8upuu8Ll3TbBoY=",
         "owner": "ba0f3",
         "repo": "telebot.nim",
-        "rev": "b566405c1777ecc2a90bf234bdcef9514a6ec82e",
+        "rev": "b2ad9f954103f751160ace5b83273a1976d3b926",
         "type": "github"
       },
       "original": {
         "owner": "ba0f3",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/2022.08.14",
         "repo": "telebot.nim",
         "type": "github"
       }
