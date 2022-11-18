@@ -204,10 +204,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-telebot-master": "src-telebot-master"
+        "src-telebot-2022_11_07": "src-telebot-2022_11_07"
       }
     },
-    "src-telebot-master": {
+    "src-telebot-2022_11_07": {
       "flake": false,
       "locked": {
         "lastModified": 1667786684,
@@ -219,7 +219,7 @@
       },
       "original": {
         "owner": "ba0f3",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/2022.11.07",
         "repo": "telebot.nim",
         "type": "github"
       }
